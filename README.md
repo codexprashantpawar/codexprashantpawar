@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Student Attendance Tracking System**
 
-- 🌱 I’m currently learning **Java in DSA and React-js**
+- 🌱 I’m currently learning **DSA(JAVA),as well as React.js**
 
 - 👨‍💻 All of my projects are available at [http://13.235.81.84:8080/AllProject/](http://13.235.81.84:8080/AllProject/)
 
