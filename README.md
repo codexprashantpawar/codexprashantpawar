@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working in  **SunRayz Technology as Software Engineer**
 
-- 🌱 I’m currently learning **DSA(JAVA),as well as C#**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [http://13.235.81.84:8080/AllProject/](http://13.235.81.84:8080/AllProject/)
 
