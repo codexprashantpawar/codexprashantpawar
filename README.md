@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codexprashantpawar&label=Profile%20views&color=0e75b6&style=flat" alt="codexprashantpawar" /> </p>
 
-- 🔭 I’m currently working on **Student Attendance Tracking System**
+- 🔭 I’m currently working in  **SunRayz Technology as Software Engineer**
 
 - 🌱 I’m currently learning **DSA(JAVA),as well as C#**
 
