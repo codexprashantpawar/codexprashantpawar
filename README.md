@@ -4,12 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codexprashantpawar&label=Profile%20views&color=0e75b6&style=flat" alt="codexprashantpawar" /> </p>
 
-- 🔭 I’m currently working in  **SunRayz Technology as Software Engineer**
-
-- 🌱 I’m currently learning **React.js**
-
-- 👨‍💻 All of my projects are available at [http://13.235.81.84:8080/AllProject/](http://13.235.81.84:8080/AllProject/)
-
+- 🔭 I’m currently working in  **IDS ID Smart Tech Pvt.Ltd as Software Engineer**
 - 💬 Ask me about **aaryan100m@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
