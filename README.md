@@ -28,40 +28,6 @@
 
 ---
 
-## 🛠️ Technical Skills
-
-### Core Engineering
-
-- C#
-- .NET Web API / ASP.NET Core
-- SQL Server
-- Data Structures & Algorithms (DSA)
-- Low-Level Design (LLD)
-- High-Level Design (HLD)
-- System Design
-- Distributed Systems
-- Production Debugging
-- AI / Agent Fundamentals
-
-### Strong Working Knowledge
-
-- Redis
-- RabbitMQ
-- Docker
-- Microsoft Azure
-- Kubernetes
-- Application Security
-- Testing
-- Observability
-- Performance Optimization
-
-### Practical / Implementation
-
-- React
-- TypeScript
-
----
-
 ## 🚀 Featured Project
 
 ### AI Gatekeeper
@@ -86,21 +52,7 @@ A Python-based computer vision project for detecting vehicles, animals, and vehi
 
 ---
 
-## 📊 GitHub Statistics
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codexprashantpawar&show_icons=true&locale=en" alt="GitHub statistics" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codexprashantpawar&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codexprashantpawar" alt="GitHub streak" />
-</p>
-
----
 
 <p align="center">
   <b>Learn Deeply. Build Consistently. Engineer Better Systems.</b>
