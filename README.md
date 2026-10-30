@@ -1,22 +1,107 @@
-<h1 align="center">Hi 👋, I'm Prashant Pawar</h1>
-<h3 align="center">A passionate software engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+# Hi 👋, I'm Prashant Pawar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codexprashantpawar&label=Profile%20views&color=0e75b6&style=flat" alt="codexprashantpawar" /> </p>
+<h3 align="center">.NET Full Stack Developer | Software Engineer | Backend & Distributed Systems Enthusiast</h3>
 
-- 💬 Ask me about **aaryan100m@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://instagram.com/https:prashant.pawar_21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/prashant.pawar_21/" height="30" width="40" /></a>
+<p align="center">
+  Building reliable software, understanding systems deeply, and solving real-world engineering problems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codexprashantpawar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codexprashantpawar&show_icons=true&locale=en&layout=compact" alt="codexprashantpawar" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,sql,redis,rabbitmq,docker,azure,kubernetes,python,git" alt="Technology icons" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codexprashantpawar&show_icons=true&locale=en" alt="codexprashantpawar" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codexprashantpawar&" alt="codexprashantpawar" /></p>
+## 👨‍💻 About Me
+
+- 💻 .NET Full Stack Developer with a backend engineering focus.
+- ⚙️ Working with C#, .NET Web API, SQL Server, and modern software engineering practices.
+- 🧠 Interested in Data Structures, Algorithms, System Design, and Distributed Systems.
+- 🏗️ Focused on building reliable, scalable, and maintainable applications.
+- 🔍 Interested in production debugging, performance optimization, and system reliability.
+- 🤖 Exploring AI Engineering and Agentic AI fundamentals.
+- 🚀 Continuously improving through practical implementation and deep technical learning.
+
+---
+
+## 🛠️ Technical Skills
+
+### Core Engineering
+
+- C#
+- .NET Web API / ASP.NET Core
+- SQL Server
+- Data Structures & Algorithms (DSA)
+- Low-Level Design (LLD)
+- High-Level Design (HLD)
+- System Design
+- Distributed Systems
+- Production Debugging
+- AI / Agent Fundamentals
+
+### Strong Working Knowledge
+
+- Redis
+- RabbitMQ
+- Docker
+- Microsoft Azure
+- Kubernetes
+- Application Security
+- Testing
+- Observability
+- Performance Optimization
+
+### Practical / Implementation
+
+- React
+- TypeScript
+
+---
+
+## 🚀 Featured Project
+
+### AI Gatekeeper
+
+**AI-Powered Gate Security System**
+
+A Python-based computer vision project for detecting vehicles, animals, and vehicle license plates from camera frames and input images.
+
+[View AI Gatekeeper on GitHub](https://github.com/codexprashantpawar/AI-Gatekeeper)
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.instagram.com/prashant.pawar_21/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
+
+- 📧 Email: aaryan100m@gmail.com
+
+---
+
+## 📊 GitHub Statistics
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codexprashantpawar&show_icons=true&locale=en" alt="GitHub statistics" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codexprashantpawar&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codexprashantpawar" alt="GitHub streak" />
+</p>
+
+---
+
+<p align="center">
+  <b>Learn Deeply. Build Consistently. Engineer Better Systems.</b>
+</p>
